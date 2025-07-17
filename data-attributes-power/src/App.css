@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.examples-container {
+  display: flex;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.example-box {
+  flex: 1;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
